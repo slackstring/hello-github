@@ -1,0 +1,15 @@
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.csproj.AssemblyReference.cache
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.GeneratedMSBuildEditorConfig.editorconfig
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.AssemblyInfoInputs.cache
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.AssemblyInfo.cs
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.csproj.CoreCompileInputs.cache
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\bin\Debug\net6.0\einfacheAusgabe.exe
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\bin\Debug\net6.0\einfacheAusgabe.deps.json
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\bin\Debug\net6.0\einfacheAusgabe.runtimeconfig.json
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\bin\Debug\net6.0\einfacheAusgabe.dll
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\bin\Debug\net6.0\einfacheAusgabe.pdb
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.dll
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\refint\einfacheAusgabe.dll
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.pdb
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\einfacheAusgabe.genruntimeconfig.cache
+F:\[programming]\udemyLektionen\github\testRepository\einfacheAusgabe\einfacheAusgabe\obj\Debug\net6.0\ref\einfacheAusgabe.dll
